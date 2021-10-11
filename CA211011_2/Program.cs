@@ -10,6 +10,7 @@ namespace CA211011_2
     {
         static void Main(string[] args)
         {
+            
 
 
 
@@ -17,8 +18,7 @@ namespace CA211011_2
 
 
 
-
-
+            Console.ReadKey();
         }
     }
 }
